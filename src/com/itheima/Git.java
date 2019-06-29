@@ -8,4 +8,10 @@ public class Git {
         System.out.println("醉也无聊..!");
 
     }
+
+    public void test(){
+        int i = 10 ;
+        i += 10 ;
+
+    }
 }
